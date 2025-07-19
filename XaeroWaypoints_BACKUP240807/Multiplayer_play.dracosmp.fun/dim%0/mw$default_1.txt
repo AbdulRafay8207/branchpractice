@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:notastros base:N:822:67:104:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:plain area:P:-9:63:-2034:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:fight area:F:187:104:437:10:false:0:gui.xaero_default:false:0:0:false
