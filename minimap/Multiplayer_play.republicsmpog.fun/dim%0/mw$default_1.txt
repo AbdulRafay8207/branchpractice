@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:motis bae:M:-2092:63:-1517:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:here:H:2057:75:1156:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:truffy base:T:2763:64:-1023:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:595:55:-370:0:false:2:gui.xaero_default:false:0:1:true

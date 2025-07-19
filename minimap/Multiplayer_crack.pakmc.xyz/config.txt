@@ -1,0 +1,25 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw9,1,5
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$eventcrystal:minecraft$overworld
+dimensionType:minecraft$the_end:minecraft$the_end
+dimensionType:minecraft$holeevent:minecraft$overworld
+dimensionType:minecraft$eventlife:minecraft$overworld
+dimensionType:minecraft$prac:minecraft$overworld
+dimensionType:minecraft$duel:minecraft$overworld
+dimensionType:minecraft$lobby:minecraft$overworld
+dimensionType:minecraft$desert:minecraft$overworld
+dimensionType:minecraft$the_nether:minecraft$the_nether
+dimensionType:minecraft$cpvparena:minecraft$overworld
+//server waypoints
